@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasika Potale</h1>
 <h3 align="center">A passionate Software Engineer(Java) from India</h3>
 
-- 🔭 I’m currently working on [Quiz Application](QuizApplication)
+- 🔭 I’m currently working on [Library Management System](Library Management System)
 
 - 🌱 I’m currently learning **Frameworks,cources**
 
